@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 1e2eb836157070b45a4480079528e27c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -30219443816559218
+    second: PixelartButonsCL_0
+  - first:
+      213: -3845482537927518760
+    second: PixelartButonsCL_1
+  - first:
+      213: -5151088635527237251
+    second: PixelartButonsCL_2
+  - first:
+      213: -5678502026380515983
+    second: PixelartButonsCL_3
+  - first:
+      213: 1882904037763527455
+    second: PixelartButonsCL_4
+  - first:
+      213: 6067900523172152570
+    second: PixelartButonsCL_5
+  - first:
+      213: 6130857463195983226
+    second: PixelartButonsCL_6
+  - first:
+      213: -1404091957708330887
+    second: PixelartButonsCL_7
+  - first:
+      213: -4191934839506761901
+    second: PixelartButonsCL_8
+  - first:
+      213: -4760016763761287370
+    second: PixelartButonsCL_9
+  - first:
+      213: -50009146354378217
+    second: PixelartButonsCL_10
+  - first:
+      213: -6230234902192331098
+    second: PixelartButonsCL_11
+  - first:
+      213: -7075505520585514301
+    second: PixelartButonsCL_12
+  - first:
+      213: -5373652422483701361
+    second: PixelartButonsCL_13
+  - first:
+      213: 5649106573168308653
+    second: PixelartButonsCL_14
+  - first:
+      213: -754177366775537962
+    second: PixelartButonsCL_15
+  - first:
+      213: 5208189221147769518
+    second: PixelartButonsCL_16
+  - first:
+      213: -5912332322394162203
+    second: PixelartButonsCL_17
+  - first:
+      213: 3233693826521810588
+    second: PixelartButonsCL_18
+  - first:
+      213: -2227487946591125652
+    second: PixelartButonsCL_19
+  - first:
+      213: -5700908554886944276
+    second: PixelartButonsCL_20
+  - first:
+      213: 8098576139583788224
+    second: PixelartButonsCL_21
+  - first:
+      213: -8499215374619210855
+    second: PixelartButonsCL_22
+  - first:
+      213: -6408640250257314064
+    second: PixelartButonsCL_23
+  - first:
+      213: 2638076751387282116
+    second: PixelartButonsCL_24
+  - first:
+      213: 3763579805959791346
+    second: PixelartButonsCL_25
+  - first:
+      213: 5196527167138952317
+    second: PixelartButonsCL_26
+  - first:
+      213: 4006039443810659383
+    second: PixelartButonsCL_27
+  - first:
+      213: 3315889421856824080
+    second: PixelartButonsCL_28
+  - first:
+      213: 2810976872818869210
+    second: PixelartButonsCL_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelartButonsCL_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2728
+        width: 262
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d01027393a49ff0800000000000000
+      internalID: -30219443816559218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2728
+        width: 263
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5dcd8810a12aac0800000000000000
+      internalID: -3845482537927518760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2728
+        width: 262
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71f8d87d28a388b0800000000000000
+      internalID: -5151088635527237251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_3
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2728
+        width: 263
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e0453e78e131b0800000000000000
+      internalID: -5678502026380515983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_4
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2728
+        width: 262
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f133b0d0f3b612a10800000000000000
+      internalID: 1882904037763527455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2469
+        width: 463
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af445107063853450800000000000000
+      internalID: 6067900523172152570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_6
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2469
+        width: 462
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d595e416e251550800000000000000
+      internalID: 6130857463195983226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2229
+        width: 463
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978efccbdc9a38ce0800000000000000
+      internalID: -1404091957708330887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_8
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2229
+        width: 462
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3578d99297143d5c0800000000000000
+      internalID: -4191934839506761901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1989
+        width: 463
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9a1719f501fdb0800000000000000
+      internalID: -4760016763761287370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_10
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1989
+        width: 462
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad60442f45e4ff0800000000000000
+      internalID: -50009146354378217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1748
+        width: 463
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e59b9d52c989a0800000000000000
+      internalID: -6230234902192331098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_12
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1748
+        width: 462
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26f277731cecd90800000000000000
+      internalID: -7075505520585514301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1518
+        width: 463
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f811173b793fc65b0800000000000000
+      internalID: -5373652422483701361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_14
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1518
+        width: 264
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da175008f78a56e40800000000000000
+      internalID: 5649106573168308653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1228
+        width: 262
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de54b34eaf9885f0800000000000000
+      internalID: -754177366775537962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1228
+        width: 263
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf781a084374840800000000000000
+      internalID: 5208189221147769518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1228
+        width: 262
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb2a1e31d23fda0800000000000000
+      internalID: -5912332322394162203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_18
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1228
+        width: 263
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96c432076360ec20800000000000000
+      internalID: 3233693826521810588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_19
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1228
+        width: 262
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fb8f9a38f5611e0800000000000000
+      internalID: -2227487946591125652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 969
+        width: 463
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce96af0cfdd42e0b0800000000000000
+      internalID: -5700908554886944276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_21
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 969
+        width: 462
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c49852471ce36070800000000000000
+      internalID: 8098576139583788224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 729
+        width: 463
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b8846c5a8bc0a80800000000000000
+      internalID: -8499215374619210855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_23
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 729
+        width: 462
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe642695afef07a0800000000000000
+      internalID: -6408640250257314064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 489
+        width: 463
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac7a804d45c9420800000000000000
+      internalID: 2638076751387282116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_25
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 489
+        width: 462
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2211aa4ebea3430800000000000000
+      internalID: 3763579805959791346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 248
+        width: 463
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74fbf61de5cd1840800000000000000
+      internalID: 5196527167138952317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_27
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 248
+        width: 462
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ca98436af489730800000000000000
+      internalID: 4006039443810659383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 18
+        width: 463
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b50406cd7640e20800000000000000
+      internalID: 3315889421856824080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelartButonsCL_29
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 18
+        width: 264
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305389298920720800000000000000
+      internalID: 2810976872818869210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
